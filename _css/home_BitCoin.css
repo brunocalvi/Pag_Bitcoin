@@ -134,3 +134,14 @@ h1, h4 {
 p, td, button, li {
     font-family: 'Roboto', sans-serif;
 }
+
+li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+li a:hover { 
+    text-decoration:none; 
+    color: #b3b3b3;
+}
+
